@@ -44,3 +44,4 @@ Une application de conversion de devises simple et réactive, construite avec **
     Accédez à l'application dans votre navigateur à l'adresse `http://localhost:3000`
 
 ## Demo
+![image](https://github.com/user-attachments/assets/3b96228b-fed6-4055-a3e1-9f64599c021d)
