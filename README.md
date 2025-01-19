@@ -19,8 +19,8 @@ Une application de conversion de devises simple et réactive, construite avec **
 
 1. Clonez le projet :
     ```bash
-    git clone https://github.com/votre-nom-utilisateur/currency-converter-app.git
-    cd currency-converter-app
+    https://github.com/Alexis-Gontier/convertisseurDeDevises
+    cd convertisseurDeDevises
     ```
 
 2. Installez les dépendances :
